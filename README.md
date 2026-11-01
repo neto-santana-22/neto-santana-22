@@ -66,13 +66,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor, daquele
 
 
 
-## Estatísticas
-
-<p align="center">
-  <img height="170" alt="Estatísticas do GitHub" src="https://github-readstats.vercel.app/api?username=neto-santana-22&show_icons=true&theme=dark&hide_border=true&bg_color=2B2D31&title_color=7D8FA3&text_color=A1A1AA&icon_color=7D8FA3" />
-  <img height="170" alt="Linguagens mais usadas" src="https://github-readstats.vercel.app/api/top-langs/?username=neto-santana-22&layout=compact&theme=dark&hide_border=true&bg_color=2B2D31&title_color=7D8FA3&text_color=A1A1AA" />
-</p>
-
 ## Contato
 
 <p align="center">
