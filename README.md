@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7D8FA3&center=true&vCenter=true&width=600&lines=Neto+Santana;Desenvolvedor+de+Software;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Neto Santana - Desenvolvedor de Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7D8FA3&center=true&vCenter=true&width=600&lines=Neto+Santana;Desenvolvedor+de+Software" alt="Neto Santana - Desenvolvedor de Software" />
 </p>
-
-<h1 align="center">Neto Santana</h1>
 
 ---
 
