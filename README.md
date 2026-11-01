@@ -1,12 +1,8 @@
-<div align="center">
-
-[
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7D8FA3&center=true&vCenter=true&width=600&lines=Neto+Santana;Desenvolvedor+de+Software;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas)
-
-](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7D8FA3&center=true&vCenter=true&width=600&lines=Neto+Santana;Desenvolvedor+de+Software;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -88,8 +84,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor, daquele
 
 ## Contato
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-2B2D31?style=for-the-badge&logo=linkedin&logoColor=0A66C2)
-
-](https://www.linkedin.com/in/luis-santana-2b68803ba)
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-santana-2b68803ba">
+    <img src="https://img.shields.io/badge/LinkedIn-2B2D31?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+</p>
