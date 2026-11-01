@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7D8FA3&center=true&vCenter=true&width=600&lines=Neto+Santana;Desenvolvedor+de+Software;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7D8FA3&center=true&vCenter=true&width=600&lines=Neto+Santana;Desenvolvedor+de+Software;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Neto Santana - Desenvolvedor de Software" />
 </p>
+
+<h1 align="center">Neto Santana</h1>
 
 ---
 
@@ -74,13 +74,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor, daquele
   <img height="170" alt="Estatísticas do GitHub" src="https://github-readstats.vercel.app/api?username=neto-santana-22&show_icons=true&theme=dark&hide_border=true&bg_color=2B2D31&title_color=7D8FA3&text_color=A1A1AA&icon_color=7D8FA3" />
   <img height="170" alt="Linguagens mais usadas" src="https://github-readstats.vercel.app/api/top-langs/?username=neto-santana-22&layout=compact&theme=dark&hide_border=true&bg_color=2B2D31&title_color=7D8FA3&text_color=A1A1AA" />
 </p>
-
-## Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Hidroscan](https://github.com/neto-santana-22/Hidroscan) | Sistema inteligente de monitoramento de água para evitar cerca de 30% de desperdício. | TypeScript |
-| [Cardápio Digital](https://github.com/neto-santana-22/cardapio-digital) | Cardápio digital de um restaurante, acessado pelo celular por meio de QR code. | HTML, CSS, JavaScript |
 
 ## Contato
 
