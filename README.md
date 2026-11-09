@@ -12,59 +12,31 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor, daquele
 
 **Linguagens**
 
+<p left>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-c-sustenido-icon-svg-download-png-1175241.png?f=webp&w=128" width="36" height="36" alt="C#" title="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" title="CSS3" />
+</p>
 
+**Banco de Dados**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2B2D31?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-
-
-
-![TypeScript](https://img.shields.io/badge/TypeScript-2B2D31?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-
-
-
-![Python](https://img.shields.io/badge/Python-2B2D31?style=for-the-badge&logo=python&logoColor=3776AB)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-2B2D31?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-
-
-
-![HTML5](https://img.shields.io/badge/HTML5-2B2D31?style=for-the-badge&logo=html5&logoColor=E34F26)
-
-
-
-
-![CSS3](https://img.shields.io/badge/CSS3-2B2D31?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-
+<p left>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL" />
+</p>
 
 **Frameworks e ferramentas**
 
-
-
-![React](https://img.shields.io/badge/React-2B2D31?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-
-
-![Vite](https://img.shields.io/badge/Vite-2B2D31?style=for-the-badge&logo=vite&logoColor=646CFF)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-2B2D31?style=for-the-badge&logo=git&logoColor=F05032)
-
-
-
-
-![GitHub](https://img.shields.io/badge/GitHub-2B2D31?style=for-the-badge&logo=github&logoColor=D4D4D4)
-
-
+<p left>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt=".NET" title=".NET" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="36" height="36" alt="Vite" title="Vite" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" title="GitHub" />
+</p>
 
 ## Contato
 
